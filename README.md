@@ -30,3 +30,21 @@
 - Test on registration an account in Wongnai website
 - Expected output: Register successfully
 - Results: Register successfully
+
+### Test_Register_Google.java
+- Test on registration an account by google
+- Expected output: Register successfully
+- Results: Register successfully
+
+### Test_Register_Line.java
+- Test on registration an account by line
+- Expected output: Register successfully
+- Results: Register successfully
+
+### Test_Register_Facebook.java
+- Test on registration an account by facebook
+- Expected output: Register successfully
+- Results: Register successfully
+
+### Test_Searchbox.java
+
