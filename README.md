@@ -33,18 +33,18 @@
 
 ### 7 Test_Register_Google.java
 - Test on clicking at the registration an account by google
-- Expected output: Redirect to the google page
-- Results: Redirect to the google page
+- Expected output: Redirect to the google login page
+- Results: Redirect to the google login page
 
 ### 8 Test_Register_Line.java
 - Test on clicking at the registration an account by line
-- Expected output: Redirect to the Line page
-- Results: Redirect to the Line page
+- Expected output: Redirect to the Line login page
+- Results: Redirect to the Line login page
 
 ### 9 Test_Register_Facebook.java
 - Test on clicking at the registration an account by facebook
-- Expected output: Redirect to the Facebook page
-- Results: Redirect to the Facebook page
+- Expected output: Redirect to the Facebook login page
+- Results: Redirect to the Facebook login page
 
 ### 10 Test_Searchbox.java
 - Test on the search box by type the word inthe search box
