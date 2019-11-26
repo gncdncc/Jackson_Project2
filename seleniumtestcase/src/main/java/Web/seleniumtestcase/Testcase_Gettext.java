@@ -18,7 +18,10 @@ public class Testcase_Gettext {
 		
 		
 		// Check the title of the page
-        System.out.println("Page title is: " + driver.getTitle());
+        	System.out.println("Page title is: " + driver.getTitle());
+		// Get the text that display on the page
+		String data = driver.findElement(By.xpath(".//*[@class='sc-1pvazpa-3 hxfTqx']")).getText();
+		System.out.println("Result : " + data);
 	}
 
 }
