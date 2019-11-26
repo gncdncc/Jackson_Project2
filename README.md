@@ -1,5 +1,5 @@
-# selenium
-# We choose Wongnai.com to do the automate test in this project.
+# Selenium
+## We choose Wongnai.com to do the automate test in this project.
 
 ### 1.Link_toRegisterpage.java
 - Test on clicking signup dropdown in mainpage and click on the button that redirect to the next page that allows users to login and signup.
