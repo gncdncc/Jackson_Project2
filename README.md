@@ -32,22 +32,22 @@
 - Results: Register successfully
 
 ### 7 Test_Register_Google.java
-- Test on registration an account by google
-- Expected output: Register successfully
-- Results: Register successfully
+- Test on clicking at the registration an account by google
+- Expected output: Redirect to the google page
+- Results: Redirect to the google page
 
 ### 8 Test_Register_Line.java
-- Test on registration an account by line
-- Expected output: Register successfully
-- Results: Register successfully
+- Test on clicking at the registration an account by line
+- Expected output: Redirect to the Line page
+- Results: Redirect to the Line page
 
 ### 9 Test_Register_Facebook.java
-- Test on registration an account by facebook
-- Expected output: Register successfully
-- Results: Register successfully
+- Test on clicking at the registration an account by facebook
+- Expected output: Redirect to the Facebook page
+- Results: Redirect to the Facebook page
 
 ### 10 Test_Searchbox.java
-- Test on 
-- Expected output:
-- Results:
+- Test on the search box by type the word inthe search box
+- Expected output: Display the output after search
+- Results: Can search sucessfuly
 
